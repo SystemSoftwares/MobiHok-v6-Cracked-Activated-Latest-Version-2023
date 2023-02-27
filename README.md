@@ -10,7 +10,7 @@ It is the latest version of the android rat in the hacker's market with a lot of
 
 About MobiHok v6
 
-What is MobiHok RAT? A Spy Max RAT is an android hacking tool by that you can hack anyone android devices remotely. MobiHok RAT series released two versions of the android remote administration tool in the past that name as MobiHok v1.0 & Mobihok v2.0.
+What is MobiHok RAT? A MobiHok RAT is an android hacking tool by that you can hack anyone android devices remotely. MobiHok RAT series released two versions of the android remote administration tool in the past that name as MobiHok v1.0 & Mobihok v2.0.
 
 MobiHok v6 is the latest version of Mobihok RAT series and the latest version of android rat at this time. It comes with so many new and powerful features.
 
